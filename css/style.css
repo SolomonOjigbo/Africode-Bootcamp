@@ -1,0 +1,15 @@
+body::before {
+  display:block;
+  content: "";
+  height: 60px;
+}
+
+.section-background {
+  background-color: #f7f7f7;
+}
+
+@media(min-width: 768px){
+  .newsletter-input {
+    width: 90%;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "africode-bootcamp",
+  "version": "1.0.0",
+  "description": "Website Demo of Africode Software Development Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1
+  },
+  "repository": {
+    "type": "git",
+    "url": "Africode Bootcamp"
+  },
+  "author": "Solomon Ojigbo",
+  "license": "ISC"
+}
